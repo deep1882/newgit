@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bq-practice-tatvic",
+  "private_key_id": "9ad770c552ad7e6e7bb93762ee4fefee40e5e95b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCczeAHuzb0Z5I+\n7WogLb4TljbL48txE2nXS7ge527kyNuJwn453x7R45Jzm22CFspYWIXPd/Afdvkh\ndnQQ7WqkQVXj1Ody3dFHFtOvHXlT1Encc0CajIEoBNw8KtcZ7wWCoKChRf8zg8aZ\nMG8ldmskLcBD3ZiFr7rmNlvhTGOmae3MavJ1H+nYcd7kJgFwYfxE6Ut3E6I36cUW\njxajlZd8cGV0amOryBXI0qfgm0OE6KfkuETimxIfXvkoEJt1MUtr3aqC8lbG86y+\nCe1JviOLAkA/ymcITsE4lsEeAVXiBr4YUcCJAxmdsjC/okHPynuspfeAN3ArLipU\nLpkvCHSpAgMBAAECggEAEvZFhYHTCTa+JXx15TrK3dkAOuNK7ptrpPS76QbRLvsI\nK25Y79wmwLh9tRvCYCUr5oeb9OUa5V8wjOajbgmb6A2bmp/cNlSTMn7U7fwJOEU3\ngmBwm0/q7YE69c6zcOgp+Sw+CIqrrBnfKhbElhnuJnOe6MYTI/WGi0DfFw1zDoRX\nrvO9RgO88vTZtf392TVNjA3F0IpXRlfK4HUSEsANINj7CJFpN4JKE8c/VA3M/xOX\neLzft4YBDFlBnrt9oqeJa2kUku/E21DJg9szobwK7sYmgf1JdmLlggqtKo/uV6Pv\nuWFsF8KyBYGMo4XZKO20rtAaQyzBtCwXHWLQ49LWAQKBgQDa4zBPbAk1mRSUxn2e\nJjBsa63rMOm8+RIO+Za7pBo3lyoZQoMvoXH2VJIcM2MRnaq+gBw6RYjmLk57u/mL\nt0g6Tr0GtpdW0dFjavUoz/fhb7QhfShl525ShA9deDj6CreboE/f7OHkAgzyP+I1\nvqz9/SE+58doEpS185mlKsyjAQKBgQC3Y/ZaAlAhPFORwA6D5F2ENVitliE+nFBX\n7+1Mls3J3XAZm9SnIFNf2oqgWzFkzo1ll0epmS33DVvqasEJtn3YvaCOOFh0ZRI8\n5lzCs33+YCuB+pgjRA7UUAQLF68NqQcbIENF9YHzy2rnAdifd58MykeDx/YIFQ2J\nvuW3CMXZqQKBgDb5kIyiCb4YcH7dS3eJB+hzMv87DbmUpOB191GxaZREtyIY/nHc\nDo9btka28U7fVp759hz8keGeB8Az+f0JT261j+w7t87qa7iYiHJzqUJJl+hBUwAl\nHCRFXsaPB2BliK/hl64aBLILgczmFp6BAVnZVZxDAmY1JHx+bjx5f2QBAoGAJAWt\nmSaFKNIZtDJeZ4fO2q5D2ez4YL0BhxRorzeb+n/ViiIy1hUia1yZCECBZkSwP3lE\nqUqeXb2xBU2s10SSWaV9yRHGRi6oM3AoXlI1eGbZhPF9OsgehZOmB6vCRdOiwrBG\nppI/0WxudivFqiUsB64f+AGqERJZk2n840QE4OkCgYEAls04f8vZ85Fwfou7A0AJ\nWbb+xYw0fJ6tZBdUj5P7rOEo2aWIph7jyndGeiHl4rjRDAzkG4mGp2AsVDDaBHc9\nnoSwlrPUPFw/ocx5Iixf/wZ7tAKACOIqYwhmfEvTMT1/IdZRXSrxas4nP3UvP8tq\nNJPf4rTPavpKr5G6eDcCaJg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastore@bq-practice-tatvic.iam.gserviceaccount.com",
+  "client_id": "103524920610294140402",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastore%40bq-practice-tatvic.iam.gserviceaccount.com"
+}
